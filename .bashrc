@@ -4,3 +4,5 @@ updating_git(){
     git push
 }
 alias upd='updating_git'
+alias gpu='git pull'
+alias gp='git push'
